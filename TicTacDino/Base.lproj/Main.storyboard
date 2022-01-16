@@ -31,6 +31,9 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="Sn7-70-nEE"/>
+                    <connections>
+                        <outlet property="titleLabel" destination="wpf-Kn-LmM" id="ihc-wh-jga"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
