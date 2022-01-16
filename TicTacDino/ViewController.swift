@@ -17,15 +17,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         self.title = "OH BOY"
-<<<<<<< HEAD
-
         view.backgroundColor = .blue
-      
-=======
-        view.backgroundColor = .red
-        
-        
->>>>>>> my_new_branch
     }
 
 
