@@ -16,6 +16,7 @@
 		F792593D27937B1C006E872F /* TicTacDinoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F792593C27937B1C006E872F /* TicTacDinoTests.swift */; };
 		F792594727937B1C006E872F /* TicTacDinoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F792594627937B1C006E872F /* TicTacDinoUITests.swift */; };
 		F792594927937B1C006E872F /* TicTacDinoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F792594827937B1C006E872F /* TicTacDinoUITestsLaunchTests.swift */; };
+		F792595827937F8E006E872F /* GameBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F792595727937F8E006E872F /* GameBoardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F792594227937B1C006E872F /* TicTacDinoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacDinoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F792594627937B1C006E872F /* TicTacDinoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacDinoUITests.swift; sourceTree = "<group>"; };
 		F792594827937B1C006E872F /* TicTacDinoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacDinoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F792595727937F8E006E872F /* GameBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameBoardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F792592727937B19006E872F /* SceneDelegate.swift */,
 				F792592927937B19006E872F /* ViewController.swift */,
 				F792592B27937B19006E872F /* Main.storyboard */,
+				F792595727937F8E006E872F /* GameBoardViewController.swift */,
 				F792592E27937B1C006E872F /* Assets.xcassets */,
 				F792593027937B1C006E872F /* LaunchScreen.storyboard */,
 				F792593327937B1C006E872F /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F792592A27937B19006E872F /* ViewController.swift in Sources */,
+				F792595827937F8E006E872F /* GameBoardViewController.swift in Sources */,
 				F792592627937B19006E872F /* AppDelegate.swift in Sources */,
 				F792592827937B19006E872F /* SceneDelegate.swift in Sources */,
 			);
