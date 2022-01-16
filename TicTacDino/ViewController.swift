@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        self.title = "main branch with token"
+        self.title = "main branch with another token"
     }
 
 
